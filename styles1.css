@@ -1,0 +1,19 @@
+header {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+header h1 {
+  font-family: "Arial", sans-serif;
+}
+
+section {
+  padding: 20px;
+}
+section p {
+  color: #3498db;
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=styles1.css.map */
